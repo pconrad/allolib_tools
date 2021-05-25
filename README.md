@@ -1,10 +1,10 @@
 # allolib_tools
 
-This repository holds a number of miscelaneous tools for allolib.
+This repository holds a number of miscellaneous tools for allolib.
 
-The simplest way to use these tools is to clone this repo within the allolib_playground repo. Then you can use the run.sh script to run the examples provided with each tool.
+The simplest way to use these tools is to clone this repo within the allolib_playground repo. Then you can use the run.sh script to build the examples provided with each tool.
 
-## Controbuting
+## Contributing
 
 Please submit pull requests with your ideas.
 
